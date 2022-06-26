@@ -32,26 +32,26 @@ The AD5933 is a device from Analog Devices which can perform impedance spectrosc
 
 ## Extract the Files.
 
-![Extract files](extract.png)
+![Extract files](extract.PNG)
 
 ## Open the Arduino File **Impedance_Analyzer.ino**
 
-![open arduino file](openarduino.png)
+![open arduino file](openarduino.PNG)
 
 ## Select the Arduino Board you are using and Port on which ardiono in connected
 
-![select board of arduino](arduino1.png)
+![select board of arduino](arduino1.PNG)
 
-![select port of arduino](arduino2.png)
+![select port of arduino](arduino2.PNG)
 
 ## Upload the Code on Arduino
 
-![upload code on arduino](uploadcodeonarduino.png)
+![upload code on arduino](uploadcodeonarduino.PNG)
 
 ***
 
 ## Click on the Serial monitor Button and Arduino ide will show readings on the serial monitor window
 
-![readings from serial monitor](serialmonitor.png)
+![readings from serial monitor](serialmonitor.PNG)
 
 above readings are for 220kohm resistor
