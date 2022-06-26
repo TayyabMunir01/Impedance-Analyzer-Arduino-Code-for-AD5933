@@ -28,7 +28,7 @@ The AD5933 is a device from Analog Devices which can perform impedance spectrosc
 
 ## Download the required files for AD5933 on your Computer from my github repository.
 
-![Download from github](download.png)
+![Download from github](download.PNG)
 
 ## Extract the Files.
 
